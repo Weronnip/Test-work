@@ -1,0 +1,130 @@
+body {
+    margin: 0% auto;
+    background-color: #151515;
+    font-family: 'Courier New', Courier, monospace;
+}
+header {
+    width: 100%;
+    background-color: rgb(53, 255, 154);
+    height: 84px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 21;
+}
+.as {
+  color: #72e064;  
+}
+.nav_cont {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main_cont {
+    width: 100%;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+
+}
+.ram_cont {
+    width: 100%;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    border: 2px solid #72e064;
+    border-radius: 24px;
+}
+.head_cont {
+    width: 100%;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.titles {
+    margin-top: 48px;
+    color: #72e064;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+}
+.text {
+    color: #72e064;
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 32px; 
+    line-height: 37px; 
+}
+.vk {
+    font-weight: 500; 
+    font-size: 30px; 
+    padding: .0em 1em;
+    line-height: 28px; 
+    text-decoration: none;
+    color: rgb(46, 46, 46); 
+    border: 2px solid;
+    border-radius: 24px;
+}
+.vk:hover {
+    background-color: rgba(62, 157, 235, 0.541);
+}
+.end{
+    font-weight: 500; 
+    font-size: 30px; 
+    padding: .0em 1em;
+    line-height: 28px; 
+    text-decoration: none;
+    color: rgb(46, 46, 46); 
+    border: 2px solid;
+    border-radius: 24px;
+}
+.end:hover {
+    background-color: rgba(62, 157, 235, 0.541);
+}
+.music {
+    font-weight: 500; 
+    font-size: 30px; 
+    padding: .0em 1em;
+    line-height: 28px; 
+    text-decoration: none;
+    color: rgb(46, 46, 46); 
+    border: 2px solid;
+    border-radius: 24px;
+}
+.music:hover {
+    background-color: rgba(62, 157, 235, 0.541);
+}
+.shop {
+    font-weight: 500; 
+    font-size: 30px; 
+    padding: .0em 1em;
+    line-height: 28px; 
+    text-decoration: none;
+    color: rgb(46, 46, 46); 
+    border: 2px solid;
+    border-radius: 24px;
+}
+.shop:hover {
+    background-color: rgba(62, 157, 235, 0.541);
+}
+.bio {
+    margin-top: 84px; 
+    padding-top: 160px; 
+    padding-bottom: 160px;
+    border-radius: 12px;
+}
+footer {
+    padding-top: 50px;  
+    height: 176px; 
+    text-align: center;
+}
